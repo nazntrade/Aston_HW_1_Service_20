@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Aston_HW_1_Service_20</string>
+    <string name="app_name">HW_1_Service</string>
+    <string name="becker_music_player">Becker Music Player</string>
 </resources>
